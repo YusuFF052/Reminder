@@ -31,6 +31,17 @@ namespace Reminder
                 }
             }
         }
+
+        void firstdatatxtfile()
+        {
+            if (!File.Exists(path + @"\ReminderByIllusDev\data.txt"))
+            {
+                using(StreamWriter wrtr = new StreamWriter(path + @"\ReminderByIllusDev\data.txt", false))
+                {
+                    wrtr.WriteLine("Konu=You were not reminded of anything,TarihveSaat=0 00.00");
+                }
+            }
+        }
         void changeenglish() 
         {
             AddReminder.Text = "Add Reminder";
@@ -92,12 +103,20 @@ namespace Reminder
         }
         private void Reminder_Load(object sender, EventArgs e)
         {
+            
+            if(Directory.Exists(path + @"\ReminderByIllusDev")){}
+            else
+            {
+                Directory.CreateDirectory(path + @"\ReminderByIllusDev");
+            }
             this.AcceptButton = null;
             this.CancelButton = null;
-            updatedeletedata(); updatelastreminded();
             createdotenv();
             readdotenv();
             SetStartup();
+            firstdatatxtfile();
+            updatedeletedata(); updatelastreminded();
+            
             if (canremind == "true")
             {
                 Notification.Checked = true;
@@ -186,13 +205,9 @@ namespace Reminder
                     else { }
                 }
             }
-            catch (DirectoryNotFoundException)
-            {
-                MessageBox.Show("Klasör Bulunamadı Hatırlatıcıya Birşeyler Ekleyin");
-            }
             catch (FileNotFoundException)
             {
-                MessageBox.Show("Dosya Bulunamadı Hatırlatıcıya Birşeyler Ekleyin");
+                MessageBox.Show("File Not Found");
             }
             catch (Exception ex)
             {
@@ -273,13 +288,9 @@ namespace Reminder
                     lblLastRemindedTime.Text = $"{kalangün} day later at {saat}";
                 }
             }
-            catch (DirectoryNotFoundException)
-            {
-                MessageBox.Show("Klasör Bulunamadı Hatırlatıcıya Birşeyler Ekleyin");
-            }
             catch (FileNotFoundException)
             {
-                MessageBox.Show("Dosya Bulunamadı Birşeyler Hatırlayın");
+                MessageBox.Show("File Not Found");
             }
             catch (NullReferenceException)
             {
