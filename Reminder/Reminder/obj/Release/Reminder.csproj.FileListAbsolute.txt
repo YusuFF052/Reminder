@@ -1,0 +1,10 @@
+C:\Users\illusdev\source\repos\Reminder\Reminder\bin\Release\Reminder.exe.config
+C:\Users\illusdev\source\repos\Reminder\Reminder\bin\Release\Reminder.exe
+C:\Users\illusdev\source\repos\Reminder\Reminder\bin\Release\Reminder.pdb
+C:\Users\illusdev\source\repos\Reminder\Reminder\obj\Release\Reminder.csproj.AssemblyReference.cache
+C:\Users\illusdev\source\repos\Reminder\Reminder\obj\Release\Reminder.Form1.resources
+C:\Users\illusdev\source\repos\Reminder\Reminder\obj\Release\Reminder.Properties.Resources.resources
+C:\Users\illusdev\source\repos\Reminder\Reminder\obj\Release\Reminder.csproj.GenerateResource.cache
+C:\Users\illusdev\source\repos\Reminder\Reminder\obj\Release\Reminder.csproj.CoreCompileInputs.cache
+C:\Users\illusdev\source\repos\Reminder\Reminder\obj\Release\Reminder.exe
+C:\Users\illusdev\source\repos\Reminder\Reminder\obj\Release\Reminder.pdb

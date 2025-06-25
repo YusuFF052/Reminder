@@ -1,0 +1,17 @@
+C:\Users\illusdev\source\repos\Reminder\Reminder\bin\Debug\Reminder.exe.config
+C:\Users\illusdev\source\repos\Reminder\Reminder\bin\Debug\Reminder.exe
+C:\Users\illusdev\source\repos\Reminder\Reminder\bin\Debug\Reminder.pdb
+C:\Users\illusdev\source\repos\Reminder\Reminder\obj\Debug\Reminder.csproj.AssemblyReference.cache
+C:\Users\illusdev\source\repos\Reminder\Reminder\obj\Debug\Reminder.Properties.Resources.resources
+C:\Users\illusdev\source\repos\Reminder\Reminder\obj\Debug\Reminder.csproj.GenerateResource.cache
+C:\Users\illusdev\source\repos\Reminder\Reminder\obj\Debug\Reminder.csproj.CoreCompileInputs.cache
+C:\Users\illusdev\source\repos\Reminder\Reminder\obj\Debug\Reminder.exe
+C:\Users\illusdev\source\repos\Reminder\Reminder\obj\Debug\Reminder.pdb
+C:\Users\illusdev\source\repos\Reminder\Reminder\bin\Debug\Newtonsoft.Json.dll
+C:\Users\illusdev\source\repos\Reminder\Reminder\bin\Debug\Newtonsoft.Json.xml
+C:\Users\illusdev\source\repos\Reminder\Reminder\obj\Debug\Reminder.csproj.Up2Date
+C:\Users\illusdev\source\repos\Reminder\Reminder\obj\Debug\Reminder.Reminder.resources
+C:\Users\illusdev\source\repos\Reminder\Reminder\bin\Debug\en-US\Reminder.resources.dll
+C:\Users\illusdev\source\repos\Reminder\Reminder\obj\Debug\Reminder.Reminder.en-US.resources
+C:\Users\illusdev\source\repos\Reminder\Reminder\obj\Debug\en-US\Reminder.resources.dll
+C:\Users\illusdev\source\repos\Reminder\Reminder\obj\Debug\Reminder.exe.config

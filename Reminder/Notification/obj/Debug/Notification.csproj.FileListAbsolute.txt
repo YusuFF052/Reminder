@@ -1,0 +1,12 @@
+C:\Users\illusdev\source\repos\Reminder\Notification\bin\Debug\Notification.exe.config
+C:\Users\illusdev\source\repos\Reminder\Notification\bin\Debug\Notification.exe
+C:\Users\illusdev\source\repos\Reminder\Notification\bin\Debug\Notification.pdb
+C:\Users\illusdev\source\repos\Reminder\Notification\obj\Debug\Notification.csproj.AssemblyReference.cache
+C:\Users\illusdev\source\repos\Reminder\Notification\obj\Debug\Notification.Notification.resources
+C:\Users\illusdev\source\repos\Reminder\Notification\obj\Debug\Notification.Properties.Resources.resources
+C:\Users\illusdev\source\repos\Reminder\Notification\obj\Debug\Notification.csproj.GenerateResource.cache
+C:\Users\illusdev\source\repos\Reminder\Notification\obj\Debug\Notification.csproj.CoreCompileInputs.cache
+C:\Users\illusdev\source\repos\Reminder\Notification\obj\Debug\Notification.exe
+C:\Users\illusdev\source\repos\Reminder\Notification\obj\Debug\Notification.pdb
+C:\Users\illusdev\source\repos\Reminder\Notification\obj\Debug\Notification.exe.config
+C:\Users\illusdev\source\repos\Reminder\Notification\obj\Debug\Notification.ButtonCustom.resources

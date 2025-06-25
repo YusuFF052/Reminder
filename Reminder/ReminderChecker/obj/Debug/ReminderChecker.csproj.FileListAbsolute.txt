@@ -1,0 +1,9 @@
+C:\Users\illusdev\source\repos\Reminder\ReminderChecker\bin\Debug\ReminderChecker.exe
+C:\Users\illusdev\source\repos\Reminder\ReminderChecker\bin\Debug\ReminderChecker.pdb
+C:\Users\illusdev\source\repos\Reminder\ReminderChecker\obj\Debug\ReminderChecker.csproj.AssemblyReference.cache
+C:\Users\illusdev\source\repos\Reminder\ReminderChecker\obj\Debug\ReminderChecker.csproj.CoreCompileInputs.cache
+C:\Users\illusdev\source\repos\Reminder\ReminderChecker\obj\Debug\ReminderChecker.exe
+C:\Users\illusdev\source\repos\Reminder\ReminderChecker\obj\Debug\ReminderChecker.pdb
+C:\Users\illusdev\source\repos\Reminder\ReminderChecker\bin\Debug\Newtonsoft.Json.dll
+C:\Users\illusdev\source\repos\Reminder\ReminderChecker\bin\Debug\Newtonsoft.Json.xml
+C:\Users\illusdev\source\repos\Reminder\ReminderChecker\obj\Debug\Reminder.E5F4BA75.Up2Date

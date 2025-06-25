@@ -1,0 +1,112 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\illusdev\\source\\repos\\Reminder\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7B7795BC-C485-4077-95DA-E11813B1A2B3}|Notification\\Notification.csproj|c:\\users\\illusdev\\source\\repos\\reminder\\notification\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7B7795BC-C485-4077-95DA-E11813B1A2B3}|Notification\\Notification.csproj|solutionrelative:notification\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B7795BC-C485-4077-95DA-E11813B1A2B3}|Notification\\Notification.csproj|C:\\Users\\illusdev\\source\\repos\\Reminder\\notification\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B7795BC-C485-4077-95DA-E11813B1A2B3}|Notification\\Notification.csproj|solutionrelative:notification\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{527A3F28-6AC0-47F7-A75B-D24B146EB1E4}|ReminderChecker\\ReminderChecker.csproj|c:\\users\\illusdev\\source\\repos\\reminder\\reminderchecker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{527A3F28-6AC0-47F7-A75B-D24B146EB1E4}|ReminderChecker\\ReminderChecker.csproj|solutionrelative:reminderchecker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4217C867-7219-47A1-8628-E13D4BF3A750}|Reminder\\Reminder.csproj|C:\\Users\\illusdev\\source\\repos\\Reminder\\reminder\\reminder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4217C867-7219-47A1-8628-E13D4BF3A750}|Reminder\\Reminder.csproj|solutionrelative:reminder\\reminder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4217C867-7219-47A1-8628-E13D4BF3A750}|Reminder\\Reminder.csproj|C:\\Users\\illusdev\\source\\repos\\Reminder\\reminder\\reminder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4217C867-7219-47A1-8628-E13D4BF3A750}|Reminder\\Reminder.csproj|solutionrelative:reminder\\reminder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Reminder.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\illusdev\\source\\repos\\Reminder\\Reminder\\Reminder.cs",
+              "RelativeDocumentMoniker": "Reminder\\Reminder.cs",
+              "ToolTip": "C:\\Users\\illusdev\\source\\repos\\Reminder\\Reminder\\Reminder.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Reminder\\Reminder.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T18:44:15.427Z",
+              "IsPinned": true,
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\illusdev\\source\\repos\\Reminder\\ReminderChecker\\Program.cs",
+              "RelativeDocumentMoniker": "ReminderChecker\\Program.cs",
+              "ToolTip": "C:\\Users\\illusdev\\source\\repos\\Reminder\\ReminderChecker\\Program.cs",
+              "RelativeToolTip": "ReminderChecker\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T20:44:01.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Notification.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\illusdev\\source\\repos\\Reminder\\Notification\\Notification.cs",
+              "RelativeDocumentMoniker": "Notification\\Notification.cs",
+              "ToolTip": "C:\\Users\\illusdev\\source\\repos\\Reminder\\Notification\\Notification.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Notification\\Notification.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T10:38:23.962Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Notification.cs",
+              "DocumentMoniker": "C:\\Users\\illusdev\\source\\repos\\Reminder\\Notification\\Notification.cs",
+              "RelativeDocumentMoniker": "Notification\\Notification.cs",
+              "ToolTip": "C:\\Users\\illusdev\\source\\repos\\Reminder\\Notification\\Notification.cs",
+              "RelativeToolTip": "Notification\\Notification.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAIAwwDAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T14:18:40.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Reminder.cs",
+              "DocumentMoniker": "C:\\Users\\illusdev\\source\\repos\\Reminder\\Reminder\\Reminder.cs",
+              "RelativeDocumentMoniker": "Reminder\\Reminder.cs",
+              "ToolTip": "C:\\Users\\illusdev\\source\\repos\\Reminder\\Reminder\\Reminder.cs",
+              "RelativeToolTip": "Reminder\\Reminder.cs",
+              "ViewState": "AgIAAHgAAAAAAAAAAAAywIwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T19:13:18.01Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
