@@ -15,5 +15,6 @@ a simple reminder
 if you want to see the source code you can open the reminder folder and continue or if you want to use it you can just run the msi file and install it on your computer the app icon will appear on your desktop when the installation is successful
 
 
+## Performance Improvements
 
-
+- high processor utilization greatly reduced

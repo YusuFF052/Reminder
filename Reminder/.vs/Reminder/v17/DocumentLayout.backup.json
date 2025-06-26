@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\illusdev\\source\\repos\\Reminder\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{527A3F28-6AC0-47F7-A75B-D24B146EB1E4}|ReminderChecker\\ReminderChecker.csproj|C:\\Users\\illusdev\\source\\repos\\Reminder\\reminderchecker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{527A3F28-6AC0-47F7-A75B-D24B146EB1E4}|ReminderChecker\\ReminderChecker.csproj|solutionrelative:reminderchecker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4217C867-7219-47A1-8628-E13D4BF3A750}|Reminder\\Reminder.csproj|c:\\users\\illusdev\\source\\repos\\reminder\\reminder\\reminder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4217C867-7219-47A1-8628-E13D4BF3A750}|Reminder\\Reminder.csproj|solutionrelative:reminder\\reminder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -17,10 +21,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{7B7795BC-C485-4077-95DA-E11813B1A2B3}|Notification\\Notification.csproj|C:\\Users\\illusdev\\source\\repos\\Reminder\\notification\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{7B7795BC-C485-4077-95DA-E11813B1A2B3}|Notification\\Notification.csproj|solutionrelative:notification\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{527A3F28-6AC0-47F7-A75B-D24B146EB1E4}|ReminderChecker\\ReminderChecker.csproj|C:\\Users\\illusdev\\source\\repos\\Reminder\\reminderchecker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{527A3F28-6AC0-47F7-A75B-D24B146EB1E4}|ReminderChecker\\ReminderChecker.csproj|solutionrelative:reminderchecker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,11 +30,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Reminder.cs [Tasar\u0131m]",
               "DocumentMoniker": "C:\\Users\\illusdev\\source\\repos\\Reminder\\Reminder\\Reminder.cs",
               "RelativeDocumentMoniker": "Reminder\\Reminder.cs",
@@ -55,20 +55,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Reminder.cs",
               "DocumentMoniker": "C:\\Users\\illusdev\\source\\repos\\Reminder\\Reminder\\Reminder.cs",
               "RelativeDocumentMoniker": "Reminder\\Reminder.cs",
               "ToolTip": "C:\\Users\\illusdev\\source\\repos\\Reminder\\Reminder\\Reminder.cs",
               "RelativeToolTip": "Reminder\\Reminder.cs",
-              "ViewState": "AgIAAFYAAAAAAAAAAAAuwHQAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHQAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-02T19:13:18.01Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Notification.cs",
               "DocumentMoniker": "C:\\Users\\illusdev\\source\\repos\\Reminder\\Notification\\Notification.cs",
               "RelativeDocumentMoniker": "Notification\\Notification.cs",
@@ -80,7 +80,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Notification.cs [Tasar\u0131m]",
               "DocumentMoniker": "C:\\Users\\illusdev\\source\\repos\\Reminder\\Notification\\Notification.cs",
               "RelativeDocumentMoniker": "Notification\\Notification.cs",
@@ -91,15 +91,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\illusdev\\source\\repos\\Reminder\\ReminderChecker\\Program.cs",
               "RelativeDocumentMoniker": "ReminderChecker\\Program.cs",
-              "ToolTip": "C:\\Users\\illusdev\\source\\repos\\Reminder\\ReminderChecker\\Program.cs*",
-              "RelativeToolTip": "ReminderChecker\\Program.cs*",
-              "ViewState": "AgIAACUAAAAAAAAAAAAgwBUAAAA/AAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\illusdev\\source\\repos\\Reminder\\ReminderChecker\\Program.cs",
+              "RelativeToolTip": "ReminderChecker\\Program.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAgwHoAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-25T20:44:01.813Z"
+              "WhenOpened": "2025-06-25T20:44:01.813Z",
+              "EditorCaption": ""
             }
           ]
         }

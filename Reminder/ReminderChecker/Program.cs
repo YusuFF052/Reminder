@@ -120,6 +120,7 @@ namespace ReminderChecker
                             sw.WriteLine(canremind);
                         }
                     }
+                    await Task.Delay(10000);
                 }
             }
             catch (Exception ex)
